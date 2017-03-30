@@ -37,7 +37,8 @@
     "weather",
     "server",
     "pbf",
-    "info"
+    "info",
+    "quote"
   ],
   "openshift": {
     "heartbeat_channel": "keepalive",
